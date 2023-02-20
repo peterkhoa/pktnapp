@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="PKTNApp.Properties.Settings.phongmachtuConnectionString"
+            connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Model\phongmachtu.mdf;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+   
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      
+    </assemblyBinding>
+  </runtime>
+</configuration>
